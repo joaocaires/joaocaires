@@ -1,7 +1,7 @@
 ### Hi there 👋 I´m Joao Pedro
 
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning Html, Css, Javascript, and frameworks
+- 📫 How to reach me: jprcaires@gmail.com
 
 <div align="center">
   <a href="https://github.com/joaocaires">
